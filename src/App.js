@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Button>IS THIS BETTER THAN CSS ?</Button>
+      <Button>Click To Connect</Button>
     </div>
   );
 }
